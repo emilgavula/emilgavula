@@ -20,15 +20,15 @@ Cloud Solutions Architect @ Microsoft — designing and delivering enterprise-gr
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Bicep-519ABA?style=flat-square&logo=microsoftazure&logoColor=white" alt="Bicep"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="ARM"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview"><img src="https://img.shields.io/badge/Bicep-519ABA?style=flat-square&logo=microsoftazure&logoColor=white" alt="Bicep"/></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview"><img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="ARM"/></a>
+  <a href="https://www.terraform.io"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"/></a>
+  <a href="https://azure.microsoft.com/en-us/products/ai-services"><img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI"/></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
 </p>
 
 ---
