@@ -30,7 +30,7 @@ Cloud Solutions Architect @ Microsoft — designing and delivering enterprise-gr
   <a href="https://azure.microsoft.com/en-us/products/ai-services"><img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI"/></a>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
   <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
-  <a href="https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-agents"><img src="https://img.shields.io/badge/Microsoft_365_Agents-5B5FC7?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365 Agents"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-agent-365"><img src="https://img.shields.io/badge/Microsoft_Agent_365-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Agent 365"/></a>
 </p>
 
 ---
