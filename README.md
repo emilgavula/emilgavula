@@ -1,65 +1,100 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+Emil+Gavula;Senior+Cloud+Solution+Architect+%40+Microsoft;Azure+%E2%80%A2+Networking+%E2%80%A2+IaC+%E2%80%A2+AI+Ops" alt="Hi there, I'm Emil Gavula — Senior Cloud Solution Architect at Microsoft" />
-<h3>Designing secure, scalable and operable platforms on Azure</h3>
+<!--
+  ============================================================
+  Emil Gavula — GitHub profile README
+  Written entirely in HTML so it cannot be flattened by a paste.
+  Commit this file to:  emilgavula/emilgavula/README.md
+  Do not copy-paste from a rendered preview — download or clone.
+  ============================================================
+-->
  
+<div align="center">
+<h1>Emil Gavula</h1>
+ 
+<p><b>Senior Cloud Solution Architect</b> &nbsp;&middot;&nbsp; Microsoft</p>
 <p>
-<a href="https://www.linkedin.com/in/emilgavula"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:e.gavula@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/emilgavula?tab=repositories"><img src="https://img.shields.io/badge/Repositories-118-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-<img src="https://img.shields.io/badge/Microsoft-Senior%20Cloud%20Solution%20Architect-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
-<img src="https://komarev.com/ghpvc/?username=emilgavula&style=for-the-badge&color=38bdf8&label=Profile+Views" alt="Profile views" />
+I help enterprises design and run Azure platforms that are secure by default,<br />
+automated end to end, and simple enough to operate at three in the morning.
+</p>
+<p>
+<a href="https://www.linkedin.com/in/emilgavula"><img src="https://img.shields.io/badge/LinkedIn-emilgavula-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1f2328" alt="LinkedIn" /></a>
+<a href="mailto:e.gavula@gmail.com"><img src="https://img.shields.io/badge/Email-e.gavula%40gmail.com-38bdf8?style=flat-square&logo=maildotru&logoColor=white&labelColor=1f2328" alt="Email" /></a>
+<a href="https://github.com/emilgavula?tab=repositories"><img src="https://img.shields.io/badge/Repositories-118-6e7781?style=flat-square&logo=github&logoColor=white&labelColor=1f2328" alt="Repositories" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Europe-6e7781?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1f2328" alt="Location" />
 </p>
 </div>
 <hr />
 <h2>About</h2>
  
 <p>
-I'm a <b>Senior Cloud Solution Architect at Microsoft</b>, working with enterprise customers to design and deliver
-secure, scalable and operable solutions on Azure. My focus sits at the intersection of networking, governance,
-security and infrastructure automation &mdash; with a strong bias toward pragmatic architecture that balances
-reliability, cost and operational simplicity.
+I work with enterprise customers on the parts of Azure that are hardest to undo later: network topology,
+identity boundaries, governance and the automation that holds it all together. Most of my time is spent
+turning ambiguous requirements into landing zones, reference architectures and infrastructure code that a
+platform team can own without me.
+</p>
+<p>
+I have a strong bias toward pragmatic design. The best architecture is usually the one with the fewest moving
+parts that still meets the requirement &mdash; and the one whose failure modes the on-call engineer can reason
+about. Lately I spend a lot of time on how AI agents change infrastructure operations, and where they should
+and should not be trusted.
 </p>
 <table>
   <tr>
-    <td><b>&#127760;&nbsp; Networking</b></td>
-    <td>Virtual WAN, Private Link, DNS Private Resolver, hub-and-spoke and mesh topologies</td>
+    <td width="180"><b>Currently</b></td>
+    <td>Building agentic SRE and infrastructure-operations patterns on Azure</td>
   </tr>
   <tr>
-    <td><b>&#128274;&nbsp; Governance &amp; Security</b></td>
-    <td>Azure Policy, RBAC, Landing Zones, security posture and compliance at scale</td>
+    <td><b>Ask me about</b></td>
+    <td>Virtual WAN and hybrid connectivity, Private Link at scale, landing zone design, Bicep vs Terraform trade-offs</td>
   </tr>
   <tr>
-    <td><b>&#9881;&nbsp; Infrastructure as Code</b></td>
-    <td>Bicep, ARM templates, Terraform and PowerShell &mdash; automation across estates</td>
-  </tr>
-  <tr>
-    <td><b>&#129302;&nbsp; AI Operations</b></td>
-    <td>Agentic SRE workflows, AI-driven infra ops, observability and intelligent runbooks</td>
+    <td><b>Open to</b></td>
+    <td>Architecture reviews, speaking, and collaboration on open-source Azure tooling</td>
   </tr>
 </table>
 <hr />
-<h2>Tech stack</h2>
+<h2>Core competencies</h2>
  
 <table>
   <tr>
-    <td valign="top"><b>Cloud</b></td>
+    <td width="230" valign="top"><b>Network architecture</b></td>
+    <td>Virtual WAN and hub-and-spoke topologies, ExpressRoute and site-to-site hybrid connectivity, Private Link and private endpoint strategy at scale, DNS Private Resolver, Azure Firewall and routing design, network segmentation</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Governance &amp; security</b></td>
+    <td>Azure Landing Zones, management group and subscription design, Azure Policy and policy-as-code, RBAC and least-privilege models, Defender for Cloud posture management, regulatory and sovereignty controls</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Platform engineering</b></td>
+    <td>Bicep and Terraform module design, reusable IaC at estate scale, GitHub Actions and Azure DevOps pipelines, environment promotion, drift detection and remediation</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Operations &amp; reliability</b></td>
+    <td>Azure Monitor and Log Analytics, KQL and workbook design, SLO definition, incident response and runbooks, cost optimisation, agentic and AI-assisted operations</td>
+  </tr>
+</table>
+<hr />
+<h2>Technology</h2>
+ 
+<table>
+  <tr>
+    <td width="150" valign="middle"><b>Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=icloud&logoColor=white" alt="Microsoft Azure" />
-      <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=openai&logoColor=white" alt="Azure AI Foundry" />
-      <img src="https://img.shields.io/badge/Entra%20ID-2F78C4?style=flat-square&logo=microsoft&logoColor=white" alt="Entra ID" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-2F78C4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Entra ID" />
+      <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0B72B9?style=flat-square&logo=openai&logoColor=white" alt="Azure AI Foundry" />
+      <img src="https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Azure Kubernetes Service" />
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>IaC</b></td>
+    <td valign="middle"><b>Infrastructure as code</b></td>
     <td>
       <img src="https://img.shields.io/badge/Bicep-519ABA?style=flat-square&logo=azuredevops&logoColor=white" alt="Bicep" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-      <img src="https://img.shields.io/badge/ARM%20Templates-0078D4?style=flat-square&logo=json&logoColor=white" alt="ARM Templates" />
+      <img src="https://img.shields.io/badge/ARM%20templates-0078D4?style=flat-square&logo=json&logoColor=white" alt="ARM templates" />
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Automation</b></td>
+    <td valign="middle"><b>Automation</b></td>
     <td>
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -69,15 +104,110 @@ reliability, cost and operational simplicity.
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Ops</b></td>
+    <td valign="middle"><b>Observability</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Monitor" />
+      <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Azure Monitor" />
+      <img src="https://img.shields.io/badge/Log%20Analytics%20%2F%20KQL-004D80?style=flat-square&logo=microsoft&logoColor=white" alt="Log Analytics and KQL" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-      <img src="https://img.shields.io/badge/KQL-004D80?style=flat-square&logo=microsoft&logoColor=white" alt="KQL" />
     </td>
   </tr>
 </table>
 <hr />
-<h2>Selected projects</h2>
+<!--
+  CERTIFICATIONS — IMPORTANT
+  Delete every badge below that you do not actually hold, then remove this comment.
+  Add any others in the same format.
+-->
+<h2>Certifications</h2>
+ 
+<p>
+<img src="https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect%20Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f2328" alt="AZ-305 Azure Solutions Architect Expert" />
+<img src="https://img.shields.io/badge/AZ--700-Azure%20Network%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f2328" alt="AZ-700 Azure Network Engineer Associate" />
+<img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f2328" alt="AZ-104 Azure Administrator Associate" />
+<img src="https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f2328" alt="AZ-500 Azure Security Engineer Associate" />
+<img src="https://img.shields.io/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f2328" alt="SC-100 Cybersecurity Architect Expert" />
+<img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1f2328" alt="AI-102 Azure AI Engineer Associate" />
+</p>
+<hr />
+<!--
+  FEATURED WORK
+  The star / fork / commit badges below read live from the GitHub API, so the
+  numbers stay current on their own. Only the repo names are hardcoded — swap
+  them for whichever repos you want on top, and keep the row format identical.
+-->
+<h2>Featured work</h2>
+ 
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="270">Repository</th>
+      <th align="left">What it is</th>
+      <th align="left" width="200">Activity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><a href="https://github.com/emilgavula/azure-networking"><b>azure-networking</b></a></td>
+      <td valign="top">Reference architectures and deployable templates for enterprise Azure networking &mdash; Virtual WAN, hub-and-spoke, Private Link and DNS.</td>
+      <td valign="top">
+        <img src="https://img.shields.io/github/stars/emilgavula/azure-networking?style=flat-square&labelColor=1f2328&color=38bdf8" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/emilgavula/azure-networking?style=flat-square&labelColor=1f2328&color=6e7781" alt="Last commit" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><a href="https://github.com/emilgavula/azure-agentic-infraops-accelerator"><b>azure-agentic-infraops-accelerator</b></a></td>
+      <td valign="top">An accelerator for agent-assisted infrastructure operations on Azure: guardrails, tooling and repeatable workflows.</td>
+      <td valign="top">
+        <img src="https://img.shields.io/github/stars/emilgavula/azure-agentic-infraops-accelerator?style=flat-square&labelColor=1f2328&color=38bdf8" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/emilgavula/azure-agentic-infraops-accelerator?style=flat-square&labelColor=1f2328&color=6e7781" alt="Last commit" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><a href="https://github.com/emilgavula/sre-agent-lab"><b>sre-agent-lab</b></a></td>
+      <td valign="top">A lab for experimenting with SRE agents &mdash; incident triage, diagnostics and automated remediation against real telemetry.</td>
+      <td valign="top">
+        <img src="https://img.shields.io/github/stars/emilgavula/sre-agent-lab?style=flat-square&labelColor=1f2328&color=38bdf8" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/emilgavula/sre-agent-lab?style=flat-square&labelColor=1f2328&color=6e7781" alt="Last commit" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><a href="https://github.com/emilgavula/vibe-foundry-multiagents-labs"><b>vibe-foundry-multiagents-labs</b></a></td>
+      <td valign="top">Hands-on labs for building multi-agent systems with Azure AI Foundry, from orchestration patterns to evaluation.</td>
+      <td valign="top">
+        <img src="https://img.shields.io/github/stars/emilgavula/vibe-foundry-multiagents-labs?style=flat-square&labelColor=1f2328&color=38bdf8" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/emilgavula/vibe-foundry-multiagents-labs?style=flat-square&labelColor=1f2328&color=6e7781" alt="Last commit" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>
+<a href="https://github.com/emilgavula?tab=repositories&sort=stargazers">All 118 repositories, most starred first &rarr;</a>
+</p>
+<hr />
+<h2>Activity</h2>
  
 <div align="center">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=emilgavula&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true&bg_color=00000000&hide_border=true&icon_color=38bdf8&text_color=6e7781" alt="GitHub statistics for emilgavula" />
+&nbsp;&nbsp;
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilgavula&layout=compact&langs_count=8&hide_title=true&bg_color=00000000&hide_border=true&text_color=6e7781" alt="Most used languages" />
+</div>
+<hr />
+<h2>Contact</h2>
+ 
+<table>
+  <tr>
+    <td width="120"><b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/emilgavula">linkedin.com/in/emilgavula</a></td>
+  </tr>
+  <tr>
+    <td><b>Email</b></td>
+    <td><a href="mailto:e.gavula@gmail.com">e.gavula@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/emilgavula">github.com/emilgavula</a></td>
+  </tr>
+</table>
+<p>
+<sub>Opinions here are my own and do not represent my employer.</sub>
+</p>
